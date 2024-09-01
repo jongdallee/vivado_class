@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Fri May 10 17:24:26 2024
+# Process ID: 12632
+# Current directory: C:/Users/kccistc/Desktop/VIVADO_CLASS/20240510_UpCounter/20240510_UpCounter.runs/synth_1
+# Command line: vivado.exe -log UpCounter_10k.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source UpCounter_10k.tcl
+# Log file: C:/Users/kccistc/Desktop/VIVADO_CLASS/20240510_UpCounter/20240510_UpCounter.runs/synth_1/UpCounter_10k.vds
+# Journal file: C:/Users/kccistc/Desktop/VIVADO_CLASS/20240510_UpCounter/20240510_UpCounter.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source UpCounter_10k.tcl -notrace

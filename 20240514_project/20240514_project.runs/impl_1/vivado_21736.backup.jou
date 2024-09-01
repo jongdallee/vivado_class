@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Wed May 15 14:53:35 2024
+# Process ID: 21736
+# Current directory: F:/VIVADO_CLASS/20240514_project/20240514_project.runs/impl_1
+# Command line: vivado.exe -log TopModule.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source TopModule.tcl -notrace
+# Log file: F:/VIVADO_CLASS/20240514_project/20240514_project.runs/impl_1/TopModule.vdi
+# Journal file: F:/VIVADO_CLASS/20240514_project/20240514_project.runs/impl_1\vivado.jou
+# Running On: DESKTOP-O6IK6JF, OS: Windows, CPU Frequency: 2496 MHz, CPU Physical cores: 10, Host memory: 16866 MB
+#-----------------------------------------------------------
+source TopModule.tcl -notrace

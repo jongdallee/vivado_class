@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Mon May 13 17:21:07 2024
+# Process ID: 18528
+# Current directory: C:/Users/kccistc/Desktop/VIVADO_CLASS/20240513_project/20240513_project.runs/impl_1
+# Command line: vivado.exe -log Timer.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Timer.tcl -notrace
+# Log file: C:/Users/kccistc/Desktop/VIVADO_CLASS/20240513_project/20240513_project.runs/impl_1/Timer.vdi
+# Journal file: C:/Users/kccistc/Desktop/VIVADO_CLASS/20240513_project/20240513_project.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source Timer.tcl -notrace

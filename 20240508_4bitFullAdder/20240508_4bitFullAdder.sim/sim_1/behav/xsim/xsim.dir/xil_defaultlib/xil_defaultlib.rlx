@@ -1,0 +1,8 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/kccistc/Desktop/VIVADO_CLASS/20240508_4bitFullAdder/20240508_4bitFullAdder.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/Users/kccistc/Desktop/VIVADO_CLASS/20240508_4bitFullAdder/20240508_4bitFullAdder.srcs/sources_1/new/4bitFullAdder.v,1715163136,verilog,,,,bitFullAdder,,,,,,,,
+C:/Users/kccistc/Desktop/VIVADO_CLASS/20240508_4bitFullAdder/20240508_4bitFullAdder.srcs/sources_1/new/fullAdder.v,1715161354,verilog,,C:/Users/kccistc/Desktop/VIVADO_CLASS/20240508_4bitFullAdder/20240508_4bitFullAdder.srcs/sources_1/new/halfAdder.v,,fullAdder,,,,,,,,
+C:/Users/kccistc/Desktop/VIVADO_CLASS/20240508_4bitFullAdder/20240508_4bitFullAdder.srcs/sources_1/new/halfAdder.v,1715161342,verilog,,C:/Users/kccistc/Desktop/VIVADO_CLASS/20240508_4bitFullAdder/20240508_4bitFullAdder.srcs/sources_1/new/4bitFullAdder.v,,halfAdder,,,,,,,,

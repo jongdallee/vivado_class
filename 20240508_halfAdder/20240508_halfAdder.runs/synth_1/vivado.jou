@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed May  8 15:44:59 2024
+# Process ID: 18528
+# Current directory: C:/Users/kccistc/Desktop/VIVADO_CLASS/20240508_halfAdder/20240508_halfAdder.runs/synth_1
+# Command line: vivado.exe -log halfAdder.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source halfAdder.tcl
+# Log file: C:/Users/kccistc/Desktop/VIVADO_CLASS/20240508_halfAdder/20240508_halfAdder.runs/synth_1/halfAdder.vds
+# Journal file: C:/Users/kccistc/Desktop/VIVADO_CLASS/20240508_halfAdder/20240508_halfAdder.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source halfAdder.tcl -notrace

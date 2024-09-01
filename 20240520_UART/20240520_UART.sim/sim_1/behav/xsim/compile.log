@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "F:/VIVADO_CLASS/20240520_UART/20240520_UART.srcs/sim_1/new/tb_uart2.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_uart
+ERROR: [VRFC 10-9062] illegal instantiation of class 'environment' [F:/VIVADO_CLASS/20240520_UART/20240520_UART.srcs/sim_1/new/tb_uart2.sv:218]
+ERROR: [VRFC 10-8530] module 'tb_uart' is ignored due to previous errors [F:/VIVADO_CLASS/20240520_UART/20240520_UART.srcs/sim_1/new/tb_uart2.sv:215]
