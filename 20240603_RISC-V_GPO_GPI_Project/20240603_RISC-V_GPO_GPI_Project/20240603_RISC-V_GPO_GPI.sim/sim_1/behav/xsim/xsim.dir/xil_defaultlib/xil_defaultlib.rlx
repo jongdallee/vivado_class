@@ -1,0 +1,16 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/VIVADO/VIVADO_WS2/20240603_RISC-V_GPO_GPI/20240603_RISC-V_GPO_GPI.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,uvm,,,,,,
+C:/VIVADO/VIVADO_WS2/20240603_RISC-V_GPO_GPI/20240603_RISC-V_GPO_GPI.srcs/sim_1/new/tb_RV32I.sv,1717563206,systemVerilog,,,,tb_RISCV,,uvm,,,,,,
+C:/VIVADO/VIVADO_WS2/20240603_RISC-V_GPO_GPI/20240603_RISC-V_GPO_GPI.srcs/sources_1/imports/new/CPU_Core.sv,1717551843,systemVerilog,,C:/VIVADO/VIVADO_WS2/20240603_RISC-V_GPO_GPI/20240603_RISC-V_GPO_GPI.srcs/sources_1/imports/new/ControlUnit.sv,,CPU_Core,,uvm,,,,,,
+C:/VIVADO/VIVADO_WS2/20240603_RISC-V_GPO_GPI/20240603_RISC-V_GPO_GPI.srcs/sources_1/imports/new/ControlUnit.sv,1717567551,systemVerilog,,C:/VIVADO/VIVADO_WS2/20240603_RISC-V_GPO_GPI/20240603_RISC-V_GPO_GPI.srcs/sources_1/imports/new/DataMemory.sv,C:/VIVADO/VIVADO_WS2/20240603_RISC-V_GPO_GPI/20240603_RISC-V_GPO_GPI.srcs/sources_1/imports/new/define.sv,ControlUnit,,uvm,,,,,,
+C:/VIVADO/VIVADO_WS2/20240603_RISC-V_GPO_GPI/20240603_RISC-V_GPO_GPI.srcs/sources_1/imports/new/DataMemory.sv,1717573220,systemVerilog,,C:/VIVADO/VIVADO_WS2/20240603_RISC-V_GPO_GPI/20240603_RISC-V_GPO_GPI.srcs/sources_1/imports/new/DataPath.sv,,DataMemory,,uvm,,,,,,
+C:/VIVADO/VIVADO_WS2/20240603_RISC-V_GPO_GPI/20240603_RISC-V_GPO_GPI.srcs/sources_1/imports/new/DataPath.sv,1717568088,systemVerilog,,C:/VIVADO/VIVADO_WS2/20240603_RISC-V_GPO_GPI/20240603_RISC-V_GPO_GPI.srcs/sources_1/new/GPIO.sv,C:/VIVADO/VIVADO_WS2/20240603_RISC-V_GPO_GPI/20240603_RISC-V_GPO_GPI.srcs/sources_1/imports/new/define.sv,DataPath;Register;RegisterFile;adder;alu;extand;mux_2x1;mux_4x1,,uvm,,,,,,
+C:/VIVADO/VIVADO_WS2/20240603_RISC-V_GPO_GPI/20240603_RISC-V_GPO_GPI.srcs/sources_1/imports/new/InstructionMemory.sv,1717573616,systemVerilog,,C:/VIVADO/VIVADO_WS2/20240603_RISC-V_GPO_GPI/20240603_RISC-V_GPO_GPI.srcs/sources_1/imports/new/RV32I.sv,,InstructionMemory,,uvm,,,,,,
+C:/VIVADO/VIVADO_WS2/20240603_RISC-V_GPO_GPI/20240603_RISC-V_GPO_GPI.srcs/sources_1/imports/new/RV32I.sv,1717551917,systemVerilog,,C:/VIVADO/VIVADO_WS2/20240603_RISC-V_GPO_GPI/20240603_RISC-V_GPO_GPI.srcs/sim_1/new/tb_RV32I.sv,,RV32I,,uvm,,,,,,
+C:/VIVADO/VIVADO_WS2/20240603_RISC-V_GPO_GPI/20240603_RISC-V_GPO_GPI.srcs/sources_1/imports/new/define.sv,1717119364,verilog,,,,,,,,,,,,
+C:/VIVADO/VIVADO_WS2/20240603_RISC-V_GPO_GPI/20240603_RISC-V_GPO_GPI.srcs/sources_1/new/BUS_interconnector.sv,1717568065,systemVerilog,,C:/VIVADO/VIVADO_WS2/20240603_RISC-V_GPO_GPI/20240603_RISC-V_GPO_GPI.srcs/sources_1/imports/new/CPU_Core.sv,,BUS_interconnector;decoder;mux,,uvm,,,,,,
+C:/VIVADO/VIVADO_WS2/20240603_RISC-V_GPO_GPI/20240603_RISC-V_GPO_GPI.srcs/sources_1/new/GPIO.sv,1717492708,systemVerilog,,C:/VIVADO/VIVADO_WS2/20240603_RISC-V_GPO_GPI/20240603_RISC-V_GPO_GPI.srcs/sources_1/imports/new/InstructionMemory.sv,,GPIO,,uvm,,,,,,
+C:/VIVADO/VIVADO_WS2/20240603_RISC-V_GPO_GPI/20240603_RISC-V_GPO_GPI.srcs/sources_1/new/GPO.sv,1717392256,systemVerilog,,C:/VIVADO/VIVADO_WS2/20240603_RISC-V_GPO_GPI/20240603_RISC-V_GPO_GPI.srcs/sources_1/imports/new/InstructionMemory.sv,,GPO,,uvm,,,,,,
